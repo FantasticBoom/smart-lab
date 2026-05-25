@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --color-uigm-blue: #1e3a8a;
+  --color-uigm-orange: #f97316;
+  --font-sans: "Inter", sans-serif;
+}
